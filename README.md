@@ -69,8 +69,8 @@ atividade.<br>
 <br>
 
 ## 🌐Web
-- [Portal do Aluno](https://github.com/serratec/20211t2mtreinamentoFront)
-- [Portal do Professor](https://github.com/serratec/20211t2mtreinamentoFront)
+- [Portal do Aluno](https://frontend-prj.vercel.app/portalaluno)
+- [Portal do Professor](https://frontend-prj.vercel.app/portalprofessor)
 <br>
 
 ## ⚙️Repositórios
