@@ -8,7 +8,12 @@
   </p>
     <h1 align="center">SISTEMA NOTAS</h1>
 <br>
-
+<p align="center">
+  <a href="https://frontend-prj.vercel.app/portalaluno">🧑‍🎓Portal do Aluno</a>&emsp;&emsp;
+  <a href="https://frontend-prj.vercel.app/portalprofessor">👨‍🏫Portal do Professor</a>
+</p>
+<br>
+  
 ## ⚡Casos de Uso Aluno (Visualizar Notas)
 ✔️ O aluno visita a página web do sistema.<br> 
 ✔️ O sistema exibe a opção consultar notas.<br>
