@@ -1,14 +1,13 @@
 <a name="back-to-top">
 <div align="center">
 <br>
-  <i><h6>Projeto para avaliação final, requisito parcial da disciplina Programação em Java, do curso Tecnologia da Informação e Comunicação-FAETERJ.</h6></i>
+  <i><h5>Projeto para avaliação final, requisito parcial da disciplina Programação em Java, do curso Tecnologia da Informação e Comunicação-FAETERJ.</h5></i>
 </div>
   <p align="center">
-      <img height="100px" src="https://user-images.githubusercontent.com/57602117/145149983-cbf71c1b-c196-47ef-8538-42f24bbebac2.png" alt="logo serratec"/>
+      <img height="200px" src="https://user-images.githubusercontent.com/57602117/145149983-cbf71c1b-c196-47ef-8538-42f24bbebac2.png" alt="logo lapis"/>
   </p>
-<br>
     <h1 align="center">SISTEMA NOTAS</h1>
-</br>
+<br>
 
 ## ⚡Casos de Uso Aluno (Visualizar Notas)
 ✔️ O aluno visita a página web do sistema.<br> 
@@ -70,12 +69,9 @@ atividade.<br>
 - [API Sistema Notas](https://api-prj.herokuapp.com/) 
 <br>
 
-## 🌐Portal do Aluno
-- [Repositório](https://github.com/serratec/20211t2mtreinamentoFront)
-<br>
-
-## 🌐Portal do Professor
-- [Repositório](https://github.com/serratec/20211t2mtreinamentoFront)
+## 🌐Web
+- [Portal do Aluno](https://github.com/serratec/20211t2mtreinamentoFront)
+- [Portal do Professor](https://github.com/serratec/20211t2mtreinamentoFront)
 <br>
 
 ## ⚙️Repositórios
