@@ -59,8 +59,7 @@ atividade.<br>
 <details>
   <summary>Diagrama E.R.</summary>
     <p align="center"><br><br>
-      <img height="300px" src="https://user-images.githubusercontent.com/57602117/145150967-ae677726-ff84-4a90-8c79-ae4d9cf88384.png
-      " alt=""/>
+      <img height="300px" src="https://user-images.githubusercontent.com/57602117/145150967-ae677726-ff84-4a90-8c79-ae4d9cf88384.png" alt=""/>
     </p>
 </details>
 <br>
@@ -78,6 +77,7 @@ atividade.<br>
 - [organização](https://github.com/Sistema-Notas-PRJ)
 - [Frontend](https://github.com/Sistema-Notas-PRJ/frontend)
 - [Backend](https://github.com/Sistema-Notas-PRJ/backend)
+<br>
 
 ## 🚀Tecnologias Utilizadas
 - [**DBeaver**](https://dbeaver.io/)    [(*Documentação*)](https://dbeaver.com/docs/wiki/)
