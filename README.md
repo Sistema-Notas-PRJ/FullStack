@@ -74,7 +74,7 @@ atividade.<br>
 <br>
 
 ## ⚙️Repositórios
-- [organização](https://github.com/Sistema-Notas-PRJ)
+- [Organização](https://github.com/Sistema-Notas-PRJ)
 - [Frontend](https://github.com/Sistema-Notas-PRJ/frontend)
 - [Backend](https://github.com/Sistema-Notas-PRJ/backend)
 <br>
