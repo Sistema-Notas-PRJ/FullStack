@@ -9,8 +9,8 @@
     <h1 align="center">SISTEMA NOTAS</h1>
 <br>
 <p align="center">
-  <a href="https://frontend-prj.vercel.app/portalaluno">🧑‍🎓Portal do Aluno</a>&emsp;&emsp;
-  <a href="https://frontend-prj.vercel.app/portalprofessor">👨‍🏫Portal do Professor</a>
+  <a href="https://frontend-sooty-omega.vercel.app/portalaluno">🧑‍🎓Portal do Aluno</a>&emsp;&emsp;
+  <a href="https://frontend-sooty-omega.vercel.app/portalprofessor">👨‍🏫Portal do Professor</a>
 </p>
 <br>
   
@@ -74,8 +74,8 @@ atividade.<br>
 <br>
 
 ## 🌐Web
-- [Portal do Aluno](https://frontend-prj.vercel.app/portalaluno)
-- [Portal do Professor](https://frontend-prj.vercel.app/portalprofessor)
+- [Portal do Aluno](https://frontend-sooty-omega.vercel.app/portalaluno)
+- [Portal do Professor](https://frontend-sooty-omega.vercel.app/portalprofessor)
 <br>
 
 ## ⚙️Repositórios
